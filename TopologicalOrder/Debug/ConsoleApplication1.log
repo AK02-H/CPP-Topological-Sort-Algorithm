@@ -1,0 +1,5 @@
+﻿  TopologicalOrder.cpp
+C:\Users\amink\OneDrive\Documents\C++\Alg ICA 2\Topological Order\TopologicalOrder\TopologicalOrder.cpp(24,26): warning C4018: '<': signed/unsigned mismatch
+  DirectedGraph.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\amink\OneDrive\Documents\C++\Alg ICA 2\Topological Order\TopologicalOrder\Debug\ConsoleApplication1.exe
